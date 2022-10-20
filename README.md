@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/Dreamyplayer/">
-  <img height="auto" width="100%" src="https://api-spotify-three.vercel.app/api" />
+  <img height="auto" width="80%" src="https://api-spotify-three.vercel.app/api" />
 
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dreamyplayer&text_color=bcbcbc&hide_border=true&theme=algolia&bg_color=00000000&show_icons=true" />
   </a>
