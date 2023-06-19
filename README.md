@@ -4,8 +4,14 @@
 
 <p align="center">
 <a href="https://github.com/Dreamyplayer/">
-  <img height="auto" width="80%" src="https://api-spotify-three.vercel.app/api" />
-
+<!--   <img height="auto" width="80%" src="https://api-spotify-three.vercel.app/api" /> -->
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
+  <img alt="github-snake" src="./assets/contribution-snake.svg" />
+</picture>
+  
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dreamyplayer&text_color=bcbcbc&hide_border=true&theme=algolia&bg_color=00000000&show_icons=true" />
   </a>
   <br>
